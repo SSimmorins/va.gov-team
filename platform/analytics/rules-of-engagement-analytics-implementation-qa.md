@@ -1,6 +1,6 @@
 ----
 
-# We're moving our docs! 
+# We're moving our docs. 
 ### Find [more information about this topic](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/Analytics-customer-support-guide.1586823275.html#Analyticscustomersupportguide-3.RequestGoogleTagManagerimplementation) on the Platform website.
 
 ### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
